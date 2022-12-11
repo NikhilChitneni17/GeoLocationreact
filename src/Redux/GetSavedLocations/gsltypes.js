@@ -1,0 +1,2 @@
+
+export const FETCH_GSL_SUCCESS="FETCH_GSL_SUCCESS"
